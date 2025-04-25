@@ -20,7 +20,7 @@ Under the hood, EquityBot uses vector embeddings (via HuggingFace’s gte-small)
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/rudhreesh/Equity_research_tool.git
+  git clone https://github.com/rudhreesh/https://github.com/rudhreesh/EquityBot.git
 ```
 2. Install the required dependencies using pip:
 
