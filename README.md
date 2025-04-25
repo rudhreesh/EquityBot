@@ -30,7 +30,7 @@ Under the hood, EquityBot uses vector embeddings (via HuggingFace’s gte-small)
 3.Set up your Groq API key by creating a .env file in the project root and adding your API
 
 ```bash
-  GROQ_API_KEY=your_api_key_here
+  export GROQ_API_KEY=your_api_key_here
 ```
 ## Usage/Examples
 
