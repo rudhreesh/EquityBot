@@ -63,3 +63,7 @@ streamlit run main.py
 - requirements.txt: A list of required Python packages for the project.
 - faiss_store_huggingface.pkl: A pickle file to store the FAISS index.
 - .env: Configuration file for storing your OpenAI API key.
+- 
+
+References:
+https://medium.com/the-ai-forum/langchain-tooling-using-groq-d60ce5117710
